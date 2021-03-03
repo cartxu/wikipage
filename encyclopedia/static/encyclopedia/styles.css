@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    background-color: #e6f8f6;
+   
+
+}
+
+code {
+    white-space: pre;
+}
+
+body p {
+    width: 80%;
+    color: #4C516D;
+    
+}
+
+body h1, h2 {
+    margin-top: 0px;
+    padding-top: 20px;
+    color: #03414d;
+
+}
+
+textarea {
+    width: 80%;
+}
+
+a {
+    text-decoration: none;
+    color: #138496;
+}
+
+a:hover {
+    text-decoration: none;
+    color:  #27bad1;
+   
+}
+
+.navbar {
+
+    padding: 10px;
+    border-bottom: 1px solid  #13849650;
+    margin: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    justify-content: flex-start;
+    font-size: 14px;
+    
+    
+}
+
+.navbar i {
+    padding: 5px;
+}
+
+
+
+.main {
+    padding: 20px;
+    padding-left: 40px;
+    
+    
+}
+
+.search {
+    margin-left: 10px;
+    width: 95%;
+    font-size: 15px;
+    line-height: 15px;
+    border: 2px dashed #13849670;
+    border-radius: 10px;
+    outline: none;
+    padding: 5px;
+    background-color: #27bad120;
+    
+}
+
+.sidebar {
+    background-color: #72dfd090;
+    height: 100vh;
+    padding: 20px;
+    border-top-right-radius: 50px;
+    
+   
+}
+
+.sidebar h2 {
+    padding-top: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #03414d50;
+    
+    
+}
+
+::placeholder {
+    color: #03414d50;
+}
